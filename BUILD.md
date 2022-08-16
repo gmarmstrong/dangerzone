@@ -112,6 +112,8 @@ Install [Docker Desktop](https://www.docker.com/products/docker-desktop).
 
 Install Python 3.10.4 (x86) [from python.org](https://www.python.org/downloads/release/python-3104/). When installing it, make sure to check the "Add Python 3.10 to PATH" checkbox on the first page of the installer.
 
+Install Microsoft Visual C++ 14.0 or greater. Get it with ["Microsoft C++ Build Tools"](https://visualstudio.microsoft.com/visual-cpp-build-tools/) and make sure to select "Desktop development with C++" when installing.
+
 Install [poetry](https://python-poetry.org/). Open PowerShell, and run:
 
 ```
